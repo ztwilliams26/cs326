@@ -1,2 +1,1 @@
-# cs326
-yeehaw!
+shibboleth
